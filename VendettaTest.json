@@ -1,6 +1,6 @@
 {
-    "name": "Vendetta Test",
-    "description": "Test Theme for Vendetta (Dark mode required)",
+    "name": "Bunny Senpai",
+    "description": "Bunny Senpai Theme (Dark mode required)",
     "authors": [
         {
             "name": "Syntax Error#9524",
@@ -18,19 +18,19 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#631963"
+            "#5F5160"
         ],
         "TEXT_LINK": [
-            "#b887f5"
+            "#a35beb"
         ],
         "INTERACTIVE_NORMAL": [
-            "#C599C3"
+            "#b887f5"
         ],
         "INTERACTIVE_HOVER": [
             "#B988BC"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FDC5FA"
+            "#8c31e8"
         ],
         "INTERACTIVE_MUTED": [
             "#5F5160" 
@@ -42,13 +42,13 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#631963"
+            "#a35beb"
         ],
         "BACKGROUND_TERTIARY": [
-            "#282828"
+            "#390085"
         ],
         "BACKGROUND_ACCENT": [
-            "#704A6E"
+            "#8c31e8"
         ],
         "BACKGROUND_FLOATING": [
             "#222222"
@@ -70,13 +70,13 @@
             "#292929"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#7D427A"
+            "#8c31e8"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#7D427A"
+            "#390085"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#484848"
+            "#390085"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
@@ -97,13 +97,13 @@
             "#9E769C"
         ],
         "TEXT_DANGER": [
-            "#FC0E61"
+            "#ff0062"
         ],
         "KEYBOARD": [
             "#282828"
         ],
         "CHANNEL_ICON": [
-            "#C6B3C5"
+            "#8c31e8"
         ],
         "CHAT_BACKGROUND": [
             "#282828"
@@ -135,7 +135,7 @@
         "WHITE_500": "#F0C4FF",
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
-        "RED_400": "#FC0E61"
+        "RED_400": "#ff0062"
     },
     "spec": 2,
     "background": {
